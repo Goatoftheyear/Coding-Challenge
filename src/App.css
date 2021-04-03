@@ -1,0 +1,14 @@
+.widthTitle {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.widthHeader {
+  position: relative;
+  left: 10px;
+}
+
+.widthItem {
+  margin: 0 auto;
+  width: 960px;
+}
