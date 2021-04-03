@@ -1,4 +1,8 @@
 # Coding-Challenge
+
 for U-Reg Coding Challenge
-To Install 
+To run:
+
 npm install
+
+npm start
